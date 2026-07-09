@@ -8,3 +8,7 @@ https://youtu.be/oVOvzxD4o0Y?si=DU6qBV1OTGtgjgfD
 
 Thanks to THEM!!!!
 
+My project is heavily inspired from-
+
+https://youtu.be/KCnO7spM0Vg?si=gGZklOslV_eG5gjN
+-By Superb Tech
