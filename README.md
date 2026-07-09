@@ -141,8 +141,10 @@ USe this to fix the hot end-
 **If done every thing right, you should have -**
 
 <img width="424" height="340" alt="Screenshot 2026-07-09 084240" src="https://github.com/user-attachments/assets/b7a4afd8-ec59-48b8-8b2a-dd6a399cd537" />
-///./././.
 
+
+Then Finally you can add the timing belts to the system...
+It is kinda had to show how in fusion nut you can refer to this greate video by Superb Tech- https://youtu.be/N274UAxcQ4k?si=0m4HKMQeg1qyt50f
 ## Now for the electronics
 
 Stack your ramps onto the arduino mega..
