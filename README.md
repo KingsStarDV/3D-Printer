@@ -41,6 +41,8 @@ This would definelty help not just me but many other people too, to make their o
 * Zip Ties
 * MK8 hot end
 * MK8 extruder
+* hot bed
+  
 
 ## Assembly
 
