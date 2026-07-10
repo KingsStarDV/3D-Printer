@@ -142,9 +142,15 @@ USe this to fix the hot end-
 
 <img width="424" height="340" alt="Screenshot 2026-07-09 084240" src="https://github.com/user-attachments/assets/b7a4afd8-ec59-48b8-8b2a-dd6a399cd537" />
 
+Now, just add your hot bed according to you--
+
+I m doing it with a borosilicate glass...
+<img width="427" height="320" alt="Screenshot 2026-07-10 105822" src="https://github.com/user-attachments/assets/1c2004aa-39d8-4d19-8180-d63c732e9847" />
+
+
 
 Then Finally you can add the timing belts to the system...
-It is kinda had to show how in fusion nut you can refer to this greate video by Superb Tech- https://youtu.be/N274UAxcQ4k?si=0m4HKMQeg1qyt50f
+It is kinda had to show how in fusion but you can refer to this great video by Superb Tech- https://youtu.be/N274UAxcQ4k?si=0m4HKMQeg1qyt50f
 ## Now for the electronics
 
 Stack your ramps onto the arduino mega..
@@ -183,7 +189,7 @@ and now you are all SET.
 
 Just open the marlin.ino and upload the code to arduino mega...
 
-Then open printium and open the exe file in it...
+Then open Printrun folder and open the exe file in it...
 
-from here you can control and give print commands
+from here you can control and give print commands..
 
