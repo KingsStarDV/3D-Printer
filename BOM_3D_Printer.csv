@@ -1,0 +1,23 @@
+Item,Description,Unit Price (Rs.),Quantity,Total (Rs.),Link
+1,2020 Aluminium Extrusion,400,2,800,https://www.fastdep.in/product/tslot-2020/
+2,2040 Aluminium Extrusion,798,1,798,https://www.fastdep.in/product/tslot-2020/
+3,Corner Bracket,30,4,120,https://www.fastdep.in/product/tslot-corner-bracket-20mm/
+4,Sliding Nut (pack of 10),145,1,145,https://www.fastdep.in/product/tnut-sliding-2020-m4/
+5,Gantry Plates,350,4,1400,https://www.fastdep.in/product/openbuild-gantry-plate-20mm/
+6,V-Slot Wheels,95,16,1520,https://robocraze.com/products/openbuilds-v-slot-c-beam-wheel-kit
+7,NEMA 17 Mounting Bracket,100,4,400,https://robocraze.com/products/mounting-l-bracket-of-nema-17-stepper-motor-for-3d-printer
+8,NEMA 17 Stepper Motor,900,4,3600,https://robocraze.com/products/17hs8401s-nema17-stepper-motor-48mm
+9,Arduino Mega + RAMPS + 5x A4988 Combo,2000,1,2000,https://robu.in/product/ramps-1-4-3d-printer-controllerarduino-mega2560-cable5pcs-4988-driver-heat-sink-kit/
+10,Lead Screw + Trapezoidal Nut (300mm),209,1,209,https://robu.in/product/300mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-copper-nut/
+11,MK8 Extruder,959,1,959,https://robocraze.com/products/mk8-extruder-for-3d-printers
+12,Hotend (J-Head Metal),372,1,372,https://robu.in/product/3d-printer-extruder-metal-j-head-hotend-reprap-makerbot-aluminium-assembled/
+13,End Stop Switches,47,3,141,https://robocraze.com/products/endstop-switch-for-3d-printers-with-cable
+14,Timing Belt GT2 (Open),91,2,182,https://robu.in/product/1m-gt2-width-6mm-black-open-timing-belt-for-3d-printer/
+15,GT2 Pulley (20 teeth),25,3,75,https://robu.in/product/1m-gt2-width-6mm-black-open-timing-belt-for-3d-printer/
+16,Idler Pulley,100,5,500,https://www.fastdep.in/product/openbuild-smooth-idler-pulley/
+17,Hot Bed (MK2B),525,1,525,https://roboticsdna.in/product/reprap-mk2b-3d-printers-dual-power-pcb-heat-bed/
+18,Dupont Connector Cable for NEMA 17,45,3,135,https://robocraze.com/products/pure-copper-720mm-length-cable-with-dupont-connector-for-nema17-stepper-motor
+19,Power Supply (12V 15A SMPS),850,1,850,https://robocraze.com/products/12v-15a-power-supply-smps
+20,Miscellaneous (tape, wooden blocks, glue, wires, etc.),400,1,400,
+,,,,,
+,,,GRAND TOTAL,15131,
