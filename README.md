@@ -186,6 +186,8 @@ if your build is just like mine, then you have to put these values-
 #define X_BED_SIZE 200   
 #define Y_BED_SIZE 150
 ```
+or you can copy the "configuaration.h" from this repo.
+
 and now you are all SET.
 
 
