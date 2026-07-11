@@ -225,3 +225,17 @@ from here you can control and give print commands..
 | 20 | Miscellaneous (tape, wooden blocks, glue, wires, etc.) | Misc materials | 400 | 1 | 400 | — |
 | | | | | **GRAND TOTAL** | **₹15,131** | |
 
+
+
+
+So, this whole project would have not been possible if these video werent on youtube-
+
+https://youtu.be/KCnO7spM0Vg?si=gGZklOslV_eG5gjN -By Superb Tech
+
+https://youtu.be/oVOvzxD4o0Y?si=DU6qBV1OTGtgjgfD -By ELECOBOT
+
+Thanks to THEM!!!!
+
+My project is heavily inspired from-
+I also got the Wiring Diagram from -
+https://youtu.be/KCnO7spM0Vg?si=gGZklOslV_eG5gjN -By Superb Tech
