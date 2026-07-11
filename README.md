@@ -197,3 +197,31 @@ Then open Printrun folder and open the exe file in it...
 
 from here you can control and give print commands..
 
+
+
+## Bill of Materials (BOM)
+
+| # | Item | Description | Unit Price (Rs.) | Qty | Total (Rs.) | Link |
+|---|------|-------------|-------------------|-----|--------------|------|
+| 1 | 2020 Aluminium Extrusion | Frame extrusion | 400 | 2 | 800 | [Buy](https://www.fastdep.in/product/tslot-2020/) |
+| 2 | 2040 Aluminium Extrusion | Frame extrusion | 798 | 1 | 798 | [Buy](https://www.fastdep.in/product/tslot-2020/) |
+| 3 | Corner Bracket | Frame joint | 30 | 4 | 120 | [Buy](https://www.fastdep.in/product/tslot-corner-bracket-20mm/) |
+| 4 | Sliding Nut (pack of 10) | T-slot nuts | 145 | 1 | 145 | [Buy](https://www.fastdep.in/product/tnut-sliding-2020-m4/) |
+| 5 | Gantry Plates | X-axis carriage plates | 350 | 4 | 1400 | [Buy](https://www.fastdep.in/product/openbuild-gantry-plate-20mm/) |
+| 6 | V-Slot Wheels | Linear motion wheels | 95 | 16 | 1520 | [Buy](https://robocraze.com/products/openbuilds-v-slot-c-beam-wheel-kit) |
+| 7 | NEMA 17 Mounting Bracket | Motor mount | 100 | 4 | 400 | [Buy](https://robocraze.com/products/mounting-l-bracket-of-nema-17-stepper-motor-for-3d-printer) |
+| 8 | NEMA 17 Stepper Motor | X/Y/Z/E motors | 900 | 4 | 3600 | [Buy](https://robocraze.com/products/17hs8401s-nema17-stepper-motor-48mm) |
+| 9 | Arduino Mega + RAMPS + 5x A4988 Combo | Mainboard + drivers | 2000 | 1 | 2000 | [Buy](https://robu.in/product/ramps-1-4-3d-printer-controllerarduino-mega2560-cable5pcs-4988-driver-heat-sink-kit/) |
+| 10 | Lead Screw + Trapezoidal Nut (300mm) | Z-axis drive | 209 | 1 | 209 | [Buy](https://robu.in/product/300mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-copper-nut/) |
+| 11 | MK8 Extruder | Filament extruder | 959 | 1 | 959 | [Buy](https://robocraze.com/products/mk8-extruder-for-3d-printers) |
+| 12 | Hotend (J-Head Metal) | Hotend assembly | 372 | 1 | 372 | [Buy](https://robu.in/product/3d-printer-extruder-metal-j-head-hotend-reprap-makerbot-aluminium-assembled/) |
+| 13 | End Stop Switches | Homing switches | 47 | 3 | 141 | [Buy](https://robocraze.com/products/endstop-switch-for-3d-printers-with-cable) |
+| 14 | Timing Belt GT2 (Open) | X/Y belts | 91 | 2 | 182 | [Buy](https://robu.in/product/1m-gt2-width-6mm-black-open-timing-belt-for-3d-printer/) |
+| 15 | GT2 Pulley (20 teeth) | Belt pulleys | 25 | 3 | 75 | [Buy](https://robu.in/product/1m-gt2-width-6mm-black-open-timing-belt-for-3d-printer/) |
+| 16 | Idler Pulley | Belt tensioning | 100 | 5 | 500 | [Buy](https://www.fastdep.in/product/openbuild-smooth-idler-pulley/) |
+| 17 | Hot Bed (MK2B) | Heated print bed | 525 | 1 | 525 | [Buy](https://roboticsdna.in/product/reprap-mk2b-3d-printers-dual-power-pcb-heat-bed/) |
+| 18 | Dupont Connector Cable for NEMA 17 | Motor wiring | 45 | 3 | 135 | [Buy](https://robocraze.com/products/pure-copper-720mm-length-cable-with-dupont-connector-for-nema17-stepper-motor) |
+| 19 | Power Supply (12V 15A SMPS) | PSU | 850 | 1 | 850 | [Buy](https://robocraze.com/products/12v-15a-power-supply-smps) |
+| 20 | Miscellaneous (tape, wooden blocks, glue, wires, etc.) | Misc materials | 400 | 1 | 400 | — |
+| | | | | **GRAND TOTAL** | **₹15,131** | |
+
